@@ -1,0 +1,6 @@
+{
+  "name": "Recyclena — Servizi Ambientali e Facility Management",
+  "description": "Recyclena Cooperativa Sociale di Tipo B: servizi ambientali professionali, pulizie e sanificazioni, manutenzione verde forestale, facility management, trasporti, sgomberi e cantieri LavoRas in Sardegna.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
